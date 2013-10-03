@@ -1,1 +1,5 @@
-Torrent client for hackers
+Hurricane is a overengineering torrent client for hackers
+=========================================================
+
+
+
